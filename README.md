@@ -232,7 +232,7 @@ java exam.MainApp
 **Divyansh Kumar Singh** |
 **Arnav Jain** | 
 **Aadithya Sai PV** | 
-**Aastha** | 
+**Aastha Negi** | 
 
 
 ---
